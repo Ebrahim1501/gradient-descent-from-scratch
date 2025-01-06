@@ -1,0 +1,1 @@
+One of the earliest implementations projects for the machine learning specialization course, where I implemented the traditional gradient descent optimization algorithm on a hand-crafted linear regression model using only numpy
